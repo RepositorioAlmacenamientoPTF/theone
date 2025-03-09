@@ -1,1 +1,1 @@
-test
+Este es un texto para probar la funcionalidad de la conexión de una pagina web con un script de javascript para conectar y tomar información de un repositorio de github.
